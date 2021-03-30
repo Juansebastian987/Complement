@@ -1,0 +1,19 @@
+touch vacio.txt // me crea un archivo txt
+. // carpera actual
+.. // carpera anterior
+cat // me muestra el contenido del archivo
+history // me muestra los comandos que he hecho
+!(numero del comando) //me pone el comando que necesitaba
+rm (archivo a borrar)
+
+git config --global user.email "tu@email.com"
+git config --global user.name "Tu Nombre"
+
+git init
+npm init
+
+git show (nombre de la carpeta)
+git diff commitA commitB // Para ver las diferencias de dos commit
+
+esc i 
+esc shif zz
